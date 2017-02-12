@@ -4,6 +4,8 @@ comments: true
 categories: DeepLearning
 ---
 ## 深入理解CNN
+I made a slide introducing Convolutional Neural Network, you can check this link:
+http://www.slideshare.net/ShuaiZhang33/lg-cnn20170213
 
 ### Reference
 1. https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
